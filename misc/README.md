@@ -2,5 +2,5 @@
 
 - wordle.awk
   - [tweetable](https://twitter.com/yamaya/status/1487764102462140421)な[Wordle](https://www.nytimes.com/games/wordle/index.html)
-- pascal-triangle.sh
+- pascal-triangle.bash
   - パスカルの三角形
