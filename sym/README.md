@@ -4,6 +4,8 @@
   - trコマンド利用
 - helloworld.sh
   - エラーメッセージ利用
+- helloworld2.sh
+  - date.shとほぼ同じ
 - fib.bash
   - フィボナッチ数列
   - sha1sum、bc利用
