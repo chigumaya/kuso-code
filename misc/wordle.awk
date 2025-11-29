@@ -1,0 +1,1 @@
+BEGIN{for(srand()srand(srand(FS=_)/86400);getline<"/usr/share/dict/words";)NF==5&&/^[a-z]*$/&&b[a[i++]=$0]=1;t=a[int(rand()*i)];printf">"}q=b[w=$0]{++j;for(s=i="^";++i<6;s=s".")$i="\33[4"(t~s$i?2:t~$i?3:_)"m"toupper($i)"\33[m"}q||$0="not in list";j>5||w==t{exit}{printf">"}
